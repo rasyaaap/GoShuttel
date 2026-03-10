@@ -1,0 +1,20 @@
+Array
+(
+    [id] => 1
+    [title] => Raaster Shuttle Resmi Hadir, Layani Rute Jepara – Semarang, Jogja, dan Solo
+    [content] => Raaster Shuttle Resmi Hadir, Layani Rute Jepara – Semarang, Jogja, dan Solo
+
+Jepara, 19 Desember 2025 —
+Raaster Shuttle resmi meluncurkan layanan transportasi darat berbasis shuttle yang melayani rute Jepara – Semarang – Yogyakarta – Solo. Kehadiran Raaster Shuttle diharapkan menjadi solusi perjalanan yang aman, nyaman, dan tepat waktu bagi masyarakat Jawa Tengah dan DIY.
+
+Dengan armada yang terawat dan driver profesional, Raaster Shuttle menawarkan pengalaman perjalanan yang lebih modern melalui sistem pemesanan online. Penumpang kini dapat memilih jadwal keberangkatan, kursi, hingga metode pembayaran secara mudah melalui website resmi Raaster Shuttle.
+
+Selain itu, Raaster Shuttle juga menghadirkan fitur QR Code tiket digital yang memudahkan proses check-in tanpa perlu tiket cetak. Hal ini menjadi langkah Raaster Shuttle dalam mendukung layanan transportasi yang praktis dan ramah lingkungan.
+
+Manajemen Raaster Shuttle menyampaikan bahwa ke depan akan ada penambahan rute baru serta peningkatan layanan, termasuk sistem penilaian driver, fitur keluhan dan saran pelanggan, serta program bonus bagi driver berprestasi.
+
+“Kami ingin memberikan pengalaman perjalanan yang aman, nyaman, dan transparan bagi pelanggan sekaligus memberikan sistem kerja yang adil bagi para driver,” ujar pihak manajemen Raaster Shuttle.
+
+Raaster Shuttle mengajak masyarakat untuk mencoba layanan ini dan menikmati perjalanan antar kota dengan lebih mudah dan terpercaya.
+    [image_url] => http://localhost/Raaster.Shuttel/assets/uploads/news/7935ed063c808c2ba5a912b707d42679.png
+)
